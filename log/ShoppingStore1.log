@@ -1,0 +1,1054 @@
+2020-11-19 01:07:20,468 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:07:20,481 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:07:35,211 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:07:35,238 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:07:35,238 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:07:35,248 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:10:32,389 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:10:32,406 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:10:43,788 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:10:43,811 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:10:43,812 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:10:43,822 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:19:52,660 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:19:52,675 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:20:10,057 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:20:10,078 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:20:10,079 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:20:10,088 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:20:10,349 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:20:24,956 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:20:24,957 [main] INFO verify that the user is registered successfully - Text is displayed as expected
+2020-11-19 01:20:24,958 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully ->> End ==============
+2020-11-19 01:27:15,694 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:27:15,710 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:27:35,698 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:27:35,730 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:27:35,731 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:27:35,745 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:27:36,141 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:27:43,558 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:29:59,181 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:29:59,196 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:30:35,062 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:30:35,086 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:30:35,087 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:30:35,101 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:30:35,516 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:30:39,295 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:30:39,567 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 01:30:45,252 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 01:30:45,478 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 01:30:45,703 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 01:31:29,096 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 01:31:29,377 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 01:31:29,523 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 01:31:34,870 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 01:31:35,066 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 01:31:40,402 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 01:31:40,402 [main] INFO verify that the user is registered successfully - Text is displayed as expected
+2020-11-19 01:31:40,404 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully ->> End ==============
+2020-11-19 01:42:03,930 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:42:03,942 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:42:13,907 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:42:13,933 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:42:13,934 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:42:13,942 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:42:14,170 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:42:16,654 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:42:16,956 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 01:42:22,307 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 01:42:22,536 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 01:42:22,745 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 01:42:25,690 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 01:42:26,116 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 01:42:26,269 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 01:42:31,599 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 01:42:31,712 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 01:42:36,999 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 01:42:37,147 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 01:42:42,473 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 01:51:08,222 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:51:08,233 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:51:16,693 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:51:16,718 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:51:16,719 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:51:16,736 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:51:17,142 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:51:22,338 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:51:22,894 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 01:51:28,456 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 01:51:28,603 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 01:51:28,834 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 01:51:31,749 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 01:51:32,059 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 01:51:32,432 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 01:51:37,749 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 01:51:37,876 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 01:51:43,161 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 01:51:43,360 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 01:51:48,649 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 01:51:48,792 [main] INFO Check Element is displayed - Day of Birth is Displayed successfully
+2020-11-19 01:51:49,045 [main] INFO Check Element is displayed - Click on Day of Birth
+2020-11-19 01:51:49,257 [main] ERROR Check Element is displayed -  Cannot find element in list with text  : 22
+2020-11-19 01:54:15,712 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:54:15,728 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:54:23,709 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:54:23,800 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:54:23,800 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:54:23,813 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:54:24,075 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:54:26,956 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:54:27,254 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 01:54:32,625 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 01:54:32,772 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 01:54:33,082 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 01:54:35,180 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 01:54:35,690 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 01:54:35,790 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 01:54:41,137 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 01:54:41,260 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 01:54:46,578 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 01:54:46,763 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 01:54:52,075 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 01:58:01,740 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 01:58:01,758 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 01:58:32,514 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 01:58:32,535 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 01:58:32,536 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 01:58:32,558 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 01:58:32,780 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 01:58:36,742 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 01:58:36,998 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 01:58:42,448 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 01:58:42,645 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 01:58:42,840 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 01:58:45,723 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 01:58:45,956 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 01:58:46,120 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 01:58:51,469 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 01:58:51,593 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 01:58:56,922 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 01:58:57,098 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 01:59:02,442 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 01:59:02,647 [main] INFO Check Element is displayed - Month of Birth is Displayed successfully
+2020-11-19 01:59:02,859 [main] INFO Check Element is displayed - Click on Month of Birth
+2020-11-19 01:59:02,933 [main] ERROR Check Element is displayed -  Cannot find element in list with text  : August
+2020-11-19 01:59:03,068 [main] INFO Check Element is displayed - Year of Birth is Displayed successfully
+2020-11-19 01:59:03,348 [main] INFO Check Element is displayed - Click on Year of Birth
+2020-11-19 01:59:03,492 [main] ERROR Check Element is displayed -  Cannot find element in list with text  : 1995
+2020-11-19 01:59:03,629 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 01:59:08,976 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 01:59:09,119 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 01:59:14,432 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 01:59:14,602 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 01:59:19,858 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 01:59:19,987 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 01:59:25,237 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 02:02:57,778 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:02:57,790 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:03:16,544 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:03:16,602 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:03:16,603 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:03:16,614 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:03:16,888 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:03:21,261 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:03:21,547 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:03:26,978 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:03:27,228 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:03:27,482 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:03:30,291 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:03:30,497 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:03:30,627 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:03:35,975 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:03:36,100 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:03:41,397 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:03:41,719 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:03:47,111 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:03:47,263 [main] INFO Check Element is displayed - Month of Birth is Displayed successfully
+2020-11-19 02:03:47,498 [main] INFO Check Element is displayed - Click on Month of Birth
+2020-11-19 02:03:47,605 [main] ERROR Check Element is displayed -  Cannot find element in list with text  : August 
+2020-11-19 02:03:47,728 [main] INFO Check Element is displayed - Year of Birth is Displayed successfully
+2020-11-19 02:03:47,996 [main] INFO Check Element is displayed - Click on Year of Birth
+2020-11-19 02:03:48,103 [main] ERROR Check Element is displayed -  Cannot find element in list with text  : 1995
+2020-11-19 02:03:48,242 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 02:03:53,636 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 02:03:53,748 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 02:03:59,153 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 02:03:59,477 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 02:04:04,787 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 02:04:04,940 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 02:04:10,242 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 02:15:51,858 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:15:51,893 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:16:01,191 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:16:01,221 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:16:01,222 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:16:01,237 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:16:01,637 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:16:04,683 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:16:05,161 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:16:10,727 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:16:10,976 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:16:11,281 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:16:14,768 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:16:14,909 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:16:15,035 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:16:20,384 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:16:20,706 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:16:26,030 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:16:26,242 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:16:31,592 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:16:31,674 [main] INFO Check Element is displayed - daysMenu is Displayed successfully
+2020-11-19 02:16:31,892 [main] INFO Check Element is displayed - Click on daysMenu
+2020-11-19 02:19:32,356 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:19:32,368 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:19:45,116 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:19:45,161 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:19:45,162 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:19:45,175 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:19:45,580 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:19:48,864 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:19:49,126 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:19:54,537 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:19:54,851 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:19:55,206 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:21:59,325 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:21:59,335 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:22:18,670 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:22:18,712 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:22:18,712 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:22:18,723 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:22:19,001 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:22:21,552 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:22:21,728 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:22:27,369 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:22:27,588 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:22:27,877 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:22:30,338 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:22:31,006 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:22:31,243 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:22:36,580 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:22:36,736 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:22:42,083 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:22:42,270 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:22:47,642 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:22:47,716 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:22:47,933 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 02:26:46,437 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:26:46,452 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:26:55,893 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:26:55,918 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:26:55,919 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:26:55,937 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:26:56,166 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:26:58,589 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:26:58,920 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:27:04,336 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:27:04,570 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:27:04,785 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:27:11,364 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:27:11,713 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:27:11,846 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:27:17,216 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:27:17,339 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:27:22,643 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:27:22,797 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:27:28,141 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:27:28,227 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:27:28,455 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 02:28:35,839 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:28:35,858 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:28:45,239 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:28:45,265 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:28:45,266 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:28:45,276 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:28:45,563 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:28:48,640 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:28:48,894 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:28:54,236 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:28:54,450 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:28:54,646 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:28:56,523 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:28:56,677 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:28:56,976 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:29:02,283 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:29:02,408 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:29:07,697 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:29:07,900 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:29:13,201 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:29:13,289 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:29:13,564 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 02:33:39,486 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:33:39,498 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:33:46,913 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:33:46,939 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:33:46,939 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:33:46,952 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:33:47,202 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:33:49,482 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:33:49,711 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:33:55,021 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:33:55,207 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:33:55,458 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:33:57,733 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:33:57,925 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:33:58,090 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:34:03,441 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:34:03,559 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:34:09,030 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:34:09,290 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:34:14,791 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:34:14,883 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:34:15,145 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 02:35:15,348 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:35:15,358 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:35:23,938 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:35:23,963 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:35:23,964 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:35:23,979 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:35:24,265 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:35:26,853 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:35:27,137 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:35:32,484 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:35:32,648 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:35:32,885 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:35:34,690 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:35:34,940 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:35:35,226 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:35:40,521 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:35:40,641 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:35:46,447 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:35:46,840 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:35:52,169 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:35:52,258 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:35:52,542 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 02:37:46,807 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:37:46,820 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:37:53,974 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:37:53,990 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:37:53,991 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:37:54,001 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:37:54,217 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:37:56,501 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:37:56,649 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:38:02,051 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:38:02,278 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:38:02,554 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:39:31,368 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 02:39:31,386 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 02:39:38,860 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 02:39:38,884 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 02:39:38,885 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 02:39:38,895 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 02:39:39,191 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 02:39:42,085 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 02:39:42,475 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 02:39:47,857 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 02:39:48,013 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 02:39:48,218 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 02:39:50,615 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 02:39:50,729 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 02:39:50,823 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 02:39:56,150 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 02:39:56,263 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 02:40:01,543 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 02:40:01,780 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 02:40:07,110 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 02:40:07,200 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 02:40:07,408 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 03:03:24,716 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 03:03:24,731 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 03:03:32,314 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 03:03:32,331 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 03:03:32,332 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 03:03:32,340 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 03:03:32,587 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 03:03:35,028 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 03:03:35,212 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 03:03:40,608 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 03:03:40,769 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 03:03:41,040 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 03:03:44,386 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 03:03:44,675 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 03:03:44,791 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 03:03:50,037 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 03:03:50,165 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 03:03:55,437 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 03:03:55,633 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 03:04:00,871 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 03:04:00,935 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 03:04:01,111 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 03:05:48,094 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 03:05:48,108 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 03:05:56,382 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 03:05:56,404 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 03:05:56,405 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 03:05:56,415 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 03:05:56,867 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 03:05:59,714 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 03:05:59,919 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 03:06:05,373 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 03:06:05,588 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 03:06:05,822 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 03:06:07,791 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 03:06:08,053 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 03:06:08,358 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 03:06:13,662 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 03:06:13,775 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 03:06:18,978 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 03:06:19,162 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 03:06:24,397 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 03:06:24,459 [main] INFO Check Element is displayed - monthMenu is Displayed successfully
+2020-11-19 03:06:24,690 [main] INFO Check Element is displayed - Click on monthMenu
+2020-11-19 03:31:54,800 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 03:31:54,836 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 03:32:02,885 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 03:32:02,908 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 03:32:02,909 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 03:32:02,918 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 03:32:03,127 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 03:32:06,180 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 03:32:06,510 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 03:32:11,868 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 03:32:12,036 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 03:32:12,223 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 03:32:14,014 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 03:32:14,158 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 03:32:14,306 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 03:32:19,744 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 03:32:19,861 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 03:32:25,091 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 03:32:25,292 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 03:32:30,562 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 03:34:55,771 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 03:34:55,783 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 03:35:07,351 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 03:35:07,367 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 03:35:07,368 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 03:35:07,382 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 03:35:07,589 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 03:35:10,255 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 03:35:10,438 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 03:35:15,751 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 03:35:15,863 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 03:35:16,078 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 03:35:17,822 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 03:35:17,965 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 03:35:18,125 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 03:35:23,543 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 03:35:23,650 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 03:35:28,857 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 03:35:28,988 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 03:35:34,260 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 03:57:45,498 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 03:57:45,512 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 03:57:58,370 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 03:57:58,392 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 03:57:58,393 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 03:57:58,404 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 03:57:58,640 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 03:58:01,571 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 03:58:01,800 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 03:58:07,121 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 03:58:07,340 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 03:58:07,600 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 03:58:09,425 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 03:58:09,661 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 03:58:09,974 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 03:58:15,377 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 03:58:15,587 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 03:58:20,783 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 03:58:20,936 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 03:58:26,179 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:05:37,203 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:05:37,217 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:05:44,431 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:05:44,473 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:05:44,474 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:05:44,483 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:05:44,719 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:05:47,603 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:05:47,948 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:05:53,277 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:05:53,467 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:05:53,691 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:05:56,143 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:05:56,287 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:05:56,397 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:06:01,661 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:06:01,795 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:06:07,016 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:06:07,216 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:06:12,488 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:06:12,582 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:06:12,825 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:07:50,748 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:07:50,757 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:08:02,285 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:08:02,348 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:08:02,349 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:08:02,377 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:08:02,710 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:08:04,193 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:08:05,824 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:08:11,572 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:08:12,025 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:08:12,280 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:08:14,209 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:08:14,405 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:08:14,691 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:08:19,944 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:08:20,051 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:08:25,229 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:08:25,352 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:08:30,677 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:08:30,788 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:08:31,084 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:09:28,287 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:09:28,298 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:09:50,735 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:09:50,751 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:09:50,752 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:09:50,760 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:09:50,969 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:09:54,507 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:09:54,786 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:10:00,115 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:10:00,273 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:10:00,411 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:10:02,704 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:10:02,850 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:10:03,122 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:10:08,405 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:10:08,497 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:10:13,675 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:10:13,853 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:10:19,061 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:10:19,118 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:10:19,298 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:12:17,601 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:12:17,614 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:12:29,200 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:12:29,218 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:12:29,218 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:12:29,227 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:12:29,467 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:12:31,890 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:12:32,090 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:12:37,470 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:12:37,597 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:12:37,801 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:12:40,053 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:12:40,193 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:12:40,352 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:12:45,759 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:12:45,857 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:12:51,073 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:12:51,218 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:12:56,493 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:12:56,590 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:13:01,872 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:13:01,986 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:13:07,202 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:13:07,302 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:13:12,509 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:13:12,622 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:13:17,968 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:13:18,064 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:13:18,398 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:13:18,945 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:13:20,438 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:13:21,146 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:13:21,469 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:13:27,231 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:13:27,328 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:13:27,818 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:16:49,197 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:16:49,209 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:16:58,364 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:16:58,387 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:16:58,388 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:16:58,396 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:16:58,644 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:17:02,271 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:17:02,463 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:17:07,784 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:17:07,937 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:17:08,149 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:17:10,420 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:17:10,588 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:17:10,757 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:17:16,241 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:17:16,412 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:17:21,623 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:17:21,782 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:17:27,049 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:17:27,186 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:17:32,426 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:17:32,541 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:17:37,790 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:17:37,889 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:17:43,095 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:17:43,207 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:17:48,435 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:17:48,507 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:17:48,686 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:17:48,963 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:17:49,056 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:17:54,359 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:20:22,443 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:20:22,457 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:20:48,904 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:20:48,929 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:20:48,930 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:20:48,940 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:20:49,166 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:20:51,666 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:20:51,861 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:20:57,189 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:20:57,361 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:20:57,604 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:20:59,899 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:21:00,213 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:21:00,346 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:21:05,604 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:21:05,729 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:21:10,949 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:21:11,080 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:21:16,378 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:21:16,469 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:21:21,898 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:21:22,082 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:21:27,384 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:21:27,509 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:21:32,697 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:21:32,811 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:21:38,031 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:21:38,085 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:21:38,262 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:21:38,513 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:21:38,653 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:21:43,964 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:21:44,013 [main] INFO Check Element is displayed - yearMenu is Displayed successfully
+2020-11-19 04:21:44,130 [main] INFO Check Element is displayed - Click on yearMenu
+2020-11-19 04:24:28,602 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:24:28,613 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:24:40,934 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:24:40,968 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:24:40,969 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:24:40,981 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:24:41,232 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:24:43,868 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:24:44,088 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:24:49,430 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:24:49,569 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:24:49,801 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:24:53,638 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:24:53,920 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:24:54,020 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:24:59,287 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:24:59,389 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:25:04,594 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:25:04,742 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:25:10,046 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:25:10,152 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:25:15,649 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:25:15,891 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:25:21,078 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:25:21,182 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:25:26,377 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:25:26,479 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:25:31,727 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:25:31,804 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:25:31,959 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:25:32,228 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:25:32,329 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:25:37,671 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:28:11,578 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:28:11,589 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:28:19,683 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:28:19,740 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:28:19,741 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:28:19,750 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:28:20,111 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:28:22,761 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:28:22,977 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:28:28,293 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:28:28,508 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:28:28,708 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:28:30,963 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:28:31,253 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:28:31,388 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:28:36,622 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:28:36,724 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:28:41,917 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:28:42,062 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:28:47,317 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:28:47,416 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:28:52,694 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:28:52,810 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:28:58,056 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:28:58,150 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:29:03,370 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:29:03,483 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:29:08,704 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:29:08,760 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:29:08,962 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:29:09,166 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:29:09,260 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:29:14,597 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:29:14,642 [main] INFO Check Element is displayed - Country is Displayed successfully
+2020-11-19 04:29:14,805 [main] INFO Check Element is displayed - Click on Country
+2020-11-19 04:29:14,928 [main] INFO Check Element is displayed - Select Country :  United States
+2020-11-19 04:29:15,038 [main] INFO Check Element is displayed - Additional Text is Displayed successfully
+2020-11-19 04:29:20,472 [main] INFO Check Element is displayed - Set Additional Text : Additional text
+2020-11-19 04:29:20,627 [main] INFO Check Element is displayed - Home Number is Displayed successfully
+2020-11-19 04:29:28,388 [main] INFO Check Element is displayed - Set Home Number : 234675966
+2020-11-19 04:29:29,387 [main] INFO Check Element is displayed - Mobile Number is Displayed successfully
+2020-11-19 04:29:37,141 [main] INFO Check Element is displayed - Set Mobile Number : 01142267459
+2020-11-19 04:29:38,436 [main] INFO Check Element is displayed - Alias Address is Displayed successfully
+2020-11-19 04:29:45,783 [main] INFO Check Element is displayed - Set Alias Address : Alias Address
+2020-11-19 04:29:47,602 [main] INFO Check Element is displayed - Regsiter Button is Displayed successfully
+2020-11-19 04:29:53,261 [main] INFO Check Element is displayed - Click on Regsiter Button
+2020-11-19 04:29:53,262 [main] INFO verify that the user is registered successfully - Text is displayed as expected
+2020-11-19 04:29:53,263 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully ->> End ==============
+2020-11-19 04:30:25,004 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:30:25,018 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:30:32,704 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:30:32,721 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:30:32,722 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:30:32,733 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:30:32,998 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:30:35,755 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:30:36,158 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:30:41,527 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:30:41,731 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:30:41,931 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:30:44,176 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:30:44,465 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:30:44,573 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:30:49,874 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:30:49,981 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:30:55,221 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:30:55,429 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:31:00,658 [main] INFO Check Element is displayed - Set Password : 1234
+2020-11-19 04:31:00,759 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:31:06,004 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:31:06,112 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:31:11,380 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:31:11,511 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:31:16,718 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:31:16,839 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:31:22,164 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:31:22,374 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:31:22,825 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:31:23,346 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:31:23,493 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:31:28,924 [main] INFO Check Element is displayed - Set Zip Code : 112371
+2020-11-19 04:31:28,973 [main] INFO Check Element is displayed - Country is Displayed successfully
+2020-11-19 04:31:29,155 [main] INFO Check Element is displayed - Click on Country
+2020-11-19 04:31:29,349 [main] INFO Check Element is displayed - Select Country :  United States
+2020-11-19 04:31:29,463 [main] INFO Check Element is displayed - Additional Text is Displayed successfully
+2020-11-19 04:31:35,425 [main] INFO Check Element is displayed - Set Additional Text : Additional text
+2020-11-19 04:31:35,939 [main] INFO Check Element is displayed - Home Number is Displayed successfully
+2020-11-19 04:31:41,283 [main] INFO Check Element is displayed - Set Home Number : 234675966
+2020-11-19 04:31:41,416 [main] INFO Check Element is displayed - Mobile Number is Displayed successfully
+2020-11-19 04:31:46,663 [main] INFO Check Element is displayed - Set Mobile Number : 01142267459
+2020-11-19 04:31:46,771 [main] INFO Check Element is displayed - Alias Address is Displayed successfully
+2020-11-19 04:31:52,103 [main] INFO Check Element is displayed - Set Alias Address : Alias Address
+2020-11-19 04:31:52,228 [main] INFO Check Element is displayed - Regsiter Button is Displayed successfully
+2020-11-19 04:31:54,901 [main] INFO Check Element is displayed - Click on Regsiter Button
+2020-11-19 04:31:54,902 [main] INFO verify that the user is registered successfully - Text is displayed as expected
+2020-11-19 04:31:54,902 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully ->> End ==============
+2020-11-19 04:33:01,067 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 04:33:01,084 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 04:33:07,907 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully->> Start ==============
+2020-11-19 04:33:07,925 [main] INFO verify that the home page is opened successfully - Text is displayed as expected
+2020-11-19 04:33:07,926 [main] INFO verify that the home page is opened successfully - ============== verify that the home page is opened successfully ->> End ==============
+2020-11-19 04:33:07,937 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully->> Start ==============
+2020-11-19 04:33:08,159 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 04:33:10,484 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 04:33:10,661 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 04:33:16,035 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 04:33:16,208 [main] INFO Check Element is displayed - Create Account Button is Displayed successfully
+2020-11-19 04:33:16,537 [main] INFO Check Element is displayed - Click on Create Account Button
+2020-11-19 04:33:18,383 [main] INFO Check Element is displayed - Female Option is Displayed successfully
+2020-11-19 04:33:18,527 [main] INFO Check Element is displayed - Click on Female Option
+2020-11-19 04:33:18,682 [main] INFO Check Element is displayed - First Name is Displayed successfully
+2020-11-19 04:33:24,140 [main] INFO Check Element is displayed - Set First Name : Rana
+2020-11-19 04:33:24,243 [main] INFO Check Element is displayed - Last Name is Displayed successfully
+2020-11-19 04:33:29,465 [main] INFO Check Element is displayed - Set Last Name : Amr
+2020-11-19 04:33:29,607 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 04:33:34,828 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 04:33:34,928 [main] INFO Check Element is displayed - Company is Displayed successfully
+2020-11-19 04:33:40,196 [main] INFO Check Element is displayed - Set Company : DXC
+2020-11-19 04:33:40,304 [main] INFO Check Element is displayed - First Address is Displayed successfully
+2020-11-19 04:33:45,576 [main] INFO Check Element is displayed - Set First Address : hhh
+2020-11-19 04:33:45,746 [main] INFO Check Element is displayed - Address2 Details is Displayed successfully
+2020-11-19 04:33:50,970 [main] INFO Check Element is displayed - Set Address2 Details : aaaa
+2020-11-19 04:33:51,069 [main] INFO Check Element is displayed - City Name is Displayed successfully
+2020-11-19 04:33:56,292 [main] INFO Check Element is displayed - Set City Name : cairo
+2020-11-19 04:33:56,363 [main] INFO Check Element is displayed - State is Displayed successfully
+2020-11-19 04:33:56,523 [main] INFO Check Element is displayed - Click on State
+2020-11-19 04:33:56,774 [main] INFO Check Element is displayed - Select State :  Florida
+2020-11-19 04:33:56,871 [main] INFO Check Element is displayed - Zip Code is Displayed successfully
+2020-11-19 04:34:02,194 [main] INFO Check Element is displayed - Set Zip Code : 11235
+2020-11-19 04:34:02,242 [main] INFO Check Element is displayed - Country is Displayed successfully
+2020-11-19 04:34:02,379 [main] INFO Check Element is displayed - Click on Country
+2020-11-19 04:34:02,572 [main] INFO Check Element is displayed - Select Country :  United States
+2020-11-19 04:34:02,690 [main] INFO Check Element is displayed - Additional Text is Displayed successfully
+2020-11-19 04:34:08,017 [main] INFO Check Element is displayed - Set Additional Text : Additional text
+2020-11-19 04:34:08,110 [main] INFO Check Element is displayed - Home Number is Displayed successfully
+2020-11-19 04:34:13,393 [main] INFO Check Element is displayed - Set Home Number : 234675966
+2020-11-19 04:34:13,501 [main] INFO Check Element is displayed - Mobile Number is Displayed successfully
+2020-11-19 04:34:18,722 [main] INFO Check Element is displayed - Set Mobile Number : 01142267459
+2020-11-19 04:34:18,825 [main] INFO Check Element is displayed - Alias Address is Displayed successfully
+2020-11-19 04:34:24,165 [main] INFO Check Element is displayed - Set Alias Address : Alias Address
+2020-11-19 04:34:24,246 [main] INFO Check Element is displayed - Regsiter Button is Displayed successfully
+2020-11-19 04:34:32,866 [main] INFO Check Element is displayed - Click on Regsiter Button
+2020-11-19 04:34:32,867 [main] INFO verify that the user is registered successfully - Text is displayed as expected
+2020-11-19 04:34:32,868 [main] INFO verify that the user is registered successfully - ============== verify that the user is registered successfully ->> End ==============
+2020-11-19 14:55:20,216 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 14:55:20,301 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 14:55:27,705 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 14:55:27,918 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 14:55:32,293 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 14:55:32,567 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 14:55:37,925 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:00:07,275 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 15:00:07,289 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 15:00:21,372 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 15:00:21,690 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 15:00:23,659 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 15:00:25,194 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 15:00:30,627 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:00:30,855 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 15:00:36,190 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 15:00:36,332 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-19 15:00:39,076 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-19 15:00:39,076 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-19 15:02:51,453 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 15:02:51,465 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 15:02:58,669 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 15:02:58,918 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 15:03:01,576 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 15:03:01,860 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 15:03:07,231 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:03:07,432 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 15:03:12,770 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 15:03:12,921 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-19 15:03:15,727 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-19 15:03:15,942 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-19 15:03:15,942 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-19 15:03:15,942 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-19 15:14:31,247 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 15:14:31,261 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 15:14:38,610 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 15:14:38,844 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 15:14:41,058 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 15:14:41,247 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 15:14:46,657 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:14:46,876 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 15:14:52,307 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 15:14:52,489 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-19 15:14:55,096 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-19 15:14:55,296 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-19 15:14:55,305 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-19 15:14:55,305 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-19 15:14:55,312 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-19 15:14:55,444 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-19 15:14:58,323 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-19 15:21:27,583 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 15:21:27,594 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 15:21:37,100 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 15:21:37,383 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 15:21:39,779 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 15:21:40,065 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 15:21:45,591 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:21:45,851 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 15:21:51,186 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 15:21:51,338 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-19 15:21:54,864 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-19 15:21:55,059 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-19 15:21:55,063 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-19 15:21:55,064 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-19 15:21:55,067 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-19 15:21:55,216 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-19 15:21:59,800 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-19 15:23:32,934 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-19 15:23:32,947 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-19 15:23:58,707 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-19 15:23:58,959 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-19 15:24:01,626 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-19 15:24:01,977 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-19 15:24:07,338 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-19 15:24:07,546 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-19 15:24:12,930 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-19 15:24:13,174 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-19 15:24:15,353 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-19 15:24:15,562 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-19 15:24:15,570 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-19 15:24:15,570 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-19 15:24:15,578 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-19 15:24:15,722 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-19 15:24:18,934 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:04:41,242 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:04:41,274 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:05:28,075 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:05:28,429 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:05:31,900 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:05:32,170 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:05:37,593 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:05:37,737 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:05:43,185 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:05:43,289 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:05:49,055 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:05:49,215 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:05:49,218 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:05:49,219 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:05:49,230 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:05:49,385 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:06:03,563 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:11:16,343 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:11:16,354 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:11:43,936 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:11:44,124 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:11:51,564 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:11:51,725 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:11:57,040 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:11:57,185 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:12:02,435 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:12:02,559 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:12:05,855 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:12:06,009 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:12:06,012 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:12:06,013 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:12:06,024 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:12:06,177 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:12:30,449 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:14:21,940 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:14:21,951 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:15:03,361 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:15:03,701 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:15:19,466 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:15:23,716 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:15:28,993 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:15:29,141 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:15:34,405 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:15:34,503 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:15:41,120 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:15:41,264 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:15:41,268 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:15:41,269 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:15:41,278 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:15:41,413 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:16:33,520 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:23:05,586 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:23:05,596 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:23:38,784 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:23:38,957 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:23:44,294 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:23:44,439 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:23:49,760 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:23:49,920 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:23:55,218 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:23:55,324 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:24:02,651 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:24:02,775 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:24:02,778 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:24:02,781 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:24:02,789 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:24:02,898 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:24:14,325 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:26:18,756 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:26:18,765 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:26:49,101 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:26:49,271 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:26:52,715 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:26:52,872 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:26:58,181 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:26:58,305 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:27:03,512 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:27:03,627 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:27:07,371 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:27:07,473 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:27:07,476 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:27:07,477 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:27:07,485 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:27:07,593 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:27:42,982 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:32:34,219 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:32:34,229 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:33:13,946 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:33:14,113 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:33:19,674 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:33:19,815 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:33:25,135 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:33:25,324 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:33:30,630 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:33:30,735 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:33:33,756 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:33:34,078 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:33:34,083 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:33:34,084 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:33:34,094 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:33:34,314 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:34:59,868 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:51:29,433 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:51:29,443 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:51:45,540 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:51:45,719 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:51:48,839 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:51:48,997 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:51:54,356 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:51:54,502 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:51:59,720 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:51:59,815 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:52:01,998 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:52:02,125 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:52:02,128 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:52:02,129 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:52:02,136 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:52:02,236 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:52:10,413 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:52:12,660 [main] INFO Check Element is displayed - Proceed to checkout Button is Displayed successfully
+2020-11-21 00:52:18,112 [main] INFO Check Element is displayed - Click on Proceed to checkout Button
+2020-11-21 00:52:18,233 [main] INFO Check Element is displayed - Proceed to checkout Button In Summary Tab is Displayed successfully
+2020-11-21 00:52:20,893 [main] INFO Check Element is displayed - Click on Proceed to checkout Button In Summary Tab
+2020-11-21 00:52:20,990 [main] INFO Check Element is displayed - Proceed to checkout Button In Address Tab is Displayed successfully
+2020-11-21 00:52:24,523 [main] INFO Check Element is displayed - Click on Proceed to checkout Button In Address Tab
+2020-11-21 00:56:57,611 [main] INFO Open browser  - ------------ Opening Browser ------------
+2020-11-21 00:56:57,621 [main] INFO Open browser  - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:57:14,423 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:57:14,609 [main] INFO Check Element is displayed - Signin Link is Displayed successfully
+2020-11-21 00:57:18,167 [main] INFO Check Element is displayed - Click on Signin Link
+2020-11-21 00:57:18,293 [main] INFO Check Element is displayed - Email Address is Displayed successfully
+2020-11-21 00:57:23,609 [main] INFO Check Element is displayed - Set Email Address : ra@amr.com
+2020-11-21 00:57:23,776 [main] INFO Check Element is displayed - Password is Displayed successfully
+2020-11-21 00:57:29,011 [main] INFO Check Element is displayed - Set Password : 1234567
+2020-11-21 00:57:29,118 [main] INFO Check Element is displayed - Login Button is Displayed successfully
+2020-11-21 00:57:31,194 [main] INFO Check Element is displayed - Click on Login Button
+2020-11-21 00:57:31,348 [main] INFO Get Element Text - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:57:31,351 [main] INFO verify that the user is logged in successfully - Text is displayed as expected
+2020-11-21 00:57:31,352 [main] INFO verify that the user is logged in successfully - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:57:31,360 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:57:31,462 [main] INFO Check Element is displayed - Women Tab is Displayed successfully
+2020-11-21 00:57:40,203 [main] INFO Check Element is displayed - Click on Women Tab
+2020-11-21 00:57:42,575 [main] INFO Check Element is displayed - Proceed to checkout Button is Displayed successfully
+2020-11-21 00:57:44,937 [main] INFO Check Element is displayed - Click on Proceed to checkout Button
+2020-11-21 00:57:45,066 [main] INFO Check Element is displayed - Proceed to checkout Button In Summary Tab is Displayed successfully
+2020-11-21 00:57:46,903 [main] INFO Check Element is displayed - Click on Proceed to checkout Button In Summary Tab
+2020-11-21 00:57:47,074 [main] INFO Check Element is displayed - Proceed to checkout Button In Address Tab is Displayed successfully
+2020-11-21 00:57:48,781 [main] INFO Check Element is displayed - Click on Proceed to checkout Button In Address Tab
+2020-11-21 00:57:48,884 [main] INFO Check Element is displayed - Check box of terms is Displayed successfully
+2020-11-21 00:57:49,001 [main] INFO Check Element is displayed - Click on Check box of terms
+2020-11-21 00:57:49,094 [main] INFO Check Element is displayed - Proceed to checkout Button In Shipping Tab is Displayed successfully
+2020-11-21 00:57:51,243 [main] INFO Check Element is displayed - Click on Proceed to checkout Button In Shipping Tab
+2020-11-21 00:57:51,347 [main] INFO Check Element is displayed - Choose to pay by check is Displayed successfully
+2020-11-21 00:57:52,850 [main] INFO Check Element is displayed - Click on Choose to pay by check
+2020-11-21 00:57:52,961 [main] INFO Check Element is displayed - Click on I confirm my order is Displayed successfully
+2020-11-21 00:57:55,134 [main] INFO Check Element is displayed - Click on Click on I confirm my order
+2020-11-21 00:57:55,246 [main] INFO Get Element Text - My account Text Actual text is Your order on My Store is complete.
+2020-11-21 00:57:55,247 [main] INFO verify that the user Check out the order successfully - Text is displayed as expected
+2020-11-21 00:57:55,247 [main] INFO verify that the user Check out the order successfully - ============== verify that the user Check out the order successfully ->> End ==============

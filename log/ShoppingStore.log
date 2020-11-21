@@ -1,0 +1,34 @@
+2020-11-21 00:56:57,611 - Open browser  -INFO - ------------ Opening Browser ------------
+2020-11-21 00:56:57,621 - Open browser  -INFO - Open URL = http://automationpractice.com/index.php
+2020-11-21 00:57:14,423 - verify that the user is logged in successfully -INFO - ============== verify that the user is logged in successfully->> Start ==============
+2020-11-21 00:57:14,609 - Check Element is displayed -INFO - Signin Link is Displayed successfully
+2020-11-21 00:57:18,167 - Check Element is displayed -INFO - Click on Signin Link
+2020-11-21 00:57:18,293 - Check Element is displayed -INFO - Email Address is Displayed successfully
+2020-11-21 00:57:23,609 - Check Element is displayed -INFO - Set Email Address : ra@amr.com
+2020-11-21 00:57:23,776 - Check Element is displayed -INFO - Password is Displayed successfully
+2020-11-21 00:57:29,011 - Check Element is displayed -INFO - Set Password : 1234567
+2020-11-21 00:57:29,118 - Check Element is displayed -INFO - Login Button is Displayed successfully
+2020-11-21 00:57:31,194 - Check Element is displayed -INFO - Click on Login Button
+2020-11-21 00:57:31,348 - Get Element Text -INFO - My account Text Actual text is MY ACCOUNT
+2020-11-21 00:57:31,351 - verify that the user is logged in successfully -INFO - Text is displayed as expected
+2020-11-21 00:57:31,352 - verify that the user is logged in successfully -INFO - ============== verify that the user is logged in successfully ->> End ==============
+2020-11-21 00:57:31,360 - verify that the user Check out the order successfully -INFO - ============== verify that the user Check out the order successfully->> Start ==============
+2020-11-21 00:57:31,462 - Check Element is displayed -INFO - Women Tab is Displayed successfully
+2020-11-21 00:57:40,203 - Check Element is displayed -INFO - Click on Women Tab
+2020-11-21 00:57:42,575 - Check Element is displayed -INFO - Proceed to checkout Button is Displayed successfully
+2020-11-21 00:57:44,937 - Check Element is displayed -INFO - Click on Proceed to checkout Button
+2020-11-21 00:57:45,066 - Check Element is displayed -INFO - Proceed to checkout Button In Summary Tab is Displayed successfully
+2020-11-21 00:57:46,903 - Check Element is displayed -INFO - Click on Proceed to checkout Button In Summary Tab
+2020-11-21 00:57:47,074 - Check Element is displayed -INFO - Proceed to checkout Button In Address Tab is Displayed successfully
+2020-11-21 00:57:48,781 - Check Element is displayed -INFO - Click on Proceed to checkout Button In Address Tab
+2020-11-21 00:57:48,884 - Check Element is displayed -INFO - Check box of terms is Displayed successfully
+2020-11-21 00:57:49,001 - Check Element is displayed -INFO - Click on Check box of terms
+2020-11-21 00:57:49,094 - Check Element is displayed -INFO - Proceed to checkout Button In Shipping Tab is Displayed successfully
+2020-11-21 00:57:51,243 - Check Element is displayed -INFO - Click on Proceed to checkout Button In Shipping Tab
+2020-11-21 00:57:51,347 - Check Element is displayed -INFO - Choose to pay by check is Displayed successfully
+2020-11-21 00:57:52,850 - Check Element is displayed -INFO - Click on Choose to pay by check
+2020-11-21 00:57:52,961 - Check Element is displayed -INFO - Click on I confirm my order is Displayed successfully
+2020-11-21 00:57:55,134 - Check Element is displayed -INFO - Click on Click on I confirm my order
+2020-11-21 00:57:55,246 - Get Element Text -INFO - My account Text Actual text is Your order on My Store is complete.
+2020-11-21 00:57:55,247 - verify that the user Check out the order successfully -INFO - Text is displayed as expected
+2020-11-21 00:57:55,247 - verify that the user Check out the order successfully -INFO - ============== verify that the user Check out the order successfully ->> End ==============
