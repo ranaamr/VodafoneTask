@@ -66,5 +66,9 @@ public class RegisterationTCs extends TestBase {
 		logger.info("Text is displayed as expected");
 		logger.info("============== verify that the user is registered successfully ->> End ==============");
 	}
+	@AfterTest
+	public void afterMethod() {
+		driver.quit();
+	}
 
 }
