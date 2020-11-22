@@ -63,5 +63,10 @@ public class CartCheckoutTCs extends TestBase{
         logger.info("============== verify that the user Check out the order successfully ->> End ==============");
 
 }
+	@AfterTest
+	public void afterMethod() {
+		driver.quit();
+	}
+
 
 }
